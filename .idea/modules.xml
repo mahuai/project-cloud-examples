@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project-cloud-nacos/project-cloud-nacos.iml" filepath="$PROJECT_DIR$/project-cloud-nacos/project-cloud-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-cloud-seate/project-cloud-seate.iml" filepath="$PROJECT_DIR$/project-cloud-seate/project-cloud-seate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-cloud-sentienl/project-cloud-sentienl.iml" filepath="$PROJECT_DIR$/project-cloud-sentienl/project-cloud-sentienl.iml" />
+    </modules>
+  </component>
+</project>

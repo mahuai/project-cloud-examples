@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="project-cloud-nacos-discovery-provider" />
+        <module name="project-cloud-mq-consumer" />
+        <module name="project-cloud-nacos-config" />
+        <module name="project-cloud-nacos-discovery-consumer" />
+        <module name="project-cloud-mq-produce" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nacos-discovery-example" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="project-cloud-mq-consumer" options="" />
+      <module name="project-cloud-mq-produce" options="" />
+      <module name="project-cloud-nacos-config" options="" />
+      <module name="project-cloud-nacos-discovery-consumer" options="" />
+      <module name="project-cloud-nacos-discovery-provider" options="" />
+    </option>
+  </component>
+</project>
